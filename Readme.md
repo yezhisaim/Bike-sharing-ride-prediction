@@ -7,11 +7,11 @@ Programming language: Python
 ### How-To-Repo
 
     Using Anaconda, create a new conda environment:
-        ```create --name dlnd python=3```
+        create --name dlnd python=3
     Enter your new environment:
-        ```Mac/Linux: >> source activate dlnd
-            Windows: >> activate dlnd```
+        Mac/Linux: >> source activate dlnd
+        Windows: >> activate dlnd
     Install the necessary libraries:
-        ```conda install numpy matplotlib pandas jupyter notebook```
+        conda install numpy matplotlib pandas jupyter notebook
     Run the following to open up the notebook:
-        ```jupyter notebook dlnd-your-first-neural-network.ipynb```
+        jupyter notebook dlnd-your-first-neural-network.ipynb
